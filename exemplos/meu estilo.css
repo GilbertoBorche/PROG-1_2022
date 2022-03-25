@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(156, 156, 112)  ;
+    border: 1px solid blue;
+}
+p {
+    font-size: 18pt;
+}
+.mult3 {
+    font-size: 24pt;
+    color: chartreuse
+}
+#especial {
+    
+}
